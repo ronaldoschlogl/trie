@@ -2,10 +2,10 @@
 O trabalho consiste na implementação em C de um programa que manipula um dicionário (conjunto de pares
 <chave, conteúdo>) de chaves do tipo string e conteúdos do tipo string, usando como estrutura base uma
 árvore de prefixos (trie).
-<br>
+<br><br>
 Com um dicionário inicialmente vazio, o programa deve ler e processar uma sequência de comandos do
 usuário. Cada comando pode ser:
-<br>
+<br><br>
 -> + chave conteudo: insere o par <chave,conteudo>, e imprime [chave "chave" inserida]. Se a
 chave já existe no dicionário, este comando deve sobrescrever seu conteúdo com conteudo, e imprimir
 a mensagem [chave "chave" sobreescrita];
