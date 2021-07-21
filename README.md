@@ -1,4 +1,4 @@
-# Arvore Trie em C
+# Arvore Trie
 O trabalho consiste na implementação em C de um programa que manipula um dicionário (conjunto de pares
 <chave, conteúdo>) de chaves do tipo string e conteúdos do tipo string, usando como estrutura base uma
 árvore de prefixos (trie).
